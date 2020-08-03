@@ -1,0 +1,3 @@
+este es mi primer commit
+
+mi nombre es angel, tengo 23 años me gusta jugar, pero decidi aprender a programar c# y git entre otras cosas mas
