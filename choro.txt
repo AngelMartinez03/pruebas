@@ -1,3 +1,5 @@
 este es mi primer commit
 
-mi nombre es angel, tengo 23 años me gusta jugar, pero decidi aprender a programar c#, angular, node js, js, docker & AWS
+mi nombre es angel, tengo 23 años me gusta jugar, pero decidi aprender a programar c#, angular, node js, js, php.
+agrego mod
+hoy camnio mi perspectiva
